@@ -1,0 +1,4 @@
+aiogram
+steam
+python-dotenv
+loguru
