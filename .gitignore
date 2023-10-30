@@ -3,4 +3,5 @@ venv*
 creds
 __pycache__
 .vscode
-google-api-python-client
+data/*.json
+data/*.maFile
